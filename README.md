@@ -6,7 +6,6 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 
 ### Built with
 
-- Semantic HTML5 markup
 - Flexbox
 - [TypeScript](https://www.typescriptlang.org/) - TypeScript extends JavaScript by adding types to the language
 - [React](https://reactjs.org/) - JS library
